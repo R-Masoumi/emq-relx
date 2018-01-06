@@ -35,7 +35,7 @@ dep_emq_auth_jwt      = git https://github.com/emqtt/emq-auth-jwt master
 dep_emq_sn    = git https://github.com/emqtt/emq-sn master
 dep_emq_coap  = git https://github.com/emqtt/emq-coap master
 dep_emq_stomp = git https://github.com/emqtt/emq-stomp master
-dep_emq_lwm2m = git https://github.com/emqtt/emq-lwm2m master
+# dep_emq_lwm2m = git https://github.com/emqtt/emq-lwm2m master
 
 # plugin template
 dep_emq_plugin_template = git https://github.com/emqtt/emq-plugin-template master
